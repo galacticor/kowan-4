@@ -1,4 +1,3 @@
-module simple-web-server
-module github.com/gin-gonic/gin
+module simple-http-server
 
 go 1.18
